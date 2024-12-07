@@ -1,0 +1,7 @@
+Recibo de nota del pedido
+Total del pedido: 10.99 $
+Inventario final:
+Tableta 1 = 9
+Tableta 2 = 13
+Tableta 3 = 8
+Tableta 4 = 20
